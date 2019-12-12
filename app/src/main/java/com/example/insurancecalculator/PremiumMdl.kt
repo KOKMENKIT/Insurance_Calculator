@@ -5,3 +5,4 @@ import androidx.lifecycle.ViewModel
 class PremiumMdl : ViewModel(){
     var premiumAmount: Double = 0.0
 }
+
